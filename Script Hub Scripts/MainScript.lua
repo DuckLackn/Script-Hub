@@ -1,7 +1,11 @@
-if game.PlaceId ~= 2377868063 then
-    game:GetService("Players").LocalPlayer:Kick("This Isn't A Valid Game")
-    return
-end
-if game.PlaceId == 2377868063 then
+local Strucid = 2377868063
+local SuperDarts = 4914988106
+
+
+if game.PlaceId == Strucid then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DuckLackn/Script-Hub/main/Script%20Hub%20Scripts/Strucid%20Game.lua")()
-end
+ elseif game.PlaceId == SuperDarts then
+    print("Worked")
+ elseif game.PlaceId ~= Strucid or SuperDarts then
+    game:GetService("Players").LocalPlayer:Kick("This Isn't A Valid Game")
+ end
