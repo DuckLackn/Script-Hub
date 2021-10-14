@@ -1,4 +1,4 @@
-# Script-Hub
+# Script-Hub / Scripts
 ### This is my own personal script hub
 
 > I'm New So Don't Jude
