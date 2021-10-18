@@ -9,3 +9,5 @@ if game.PlaceId == Strucid then
  elseif game.PlaceId ~= Strucid or SuperDarts then
     game:GetService("Players").LocalPlayer:Kick("This Isn't A Valid Game")
  end
+
+--Joe
