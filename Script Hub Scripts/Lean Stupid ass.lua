@@ -1,0 +1,1 @@
+game.workspace.part:destroy()
