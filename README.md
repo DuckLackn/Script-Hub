@@ -1,4 +1,6 @@
-# Script-Hub / Scripts
+#Outdated as hell
+
+## Script-Hub / Scripts
 ### This is my own personal script hub
 
 > I'm New So Don't Jude
