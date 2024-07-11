@@ -1,4 +1,4 @@
-#Outdated as hell
+# Outdated as hell
 
 ## Script-Hub / Scripts
 ### This is my own personal script hub
